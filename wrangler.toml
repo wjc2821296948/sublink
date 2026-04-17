@@ -10,3 +10,7 @@ kv_namespaces = [
 
 [assets]
 directory = "./public"
+
+[[routes]]
+pattern = "sublink.lrate.top"
+custom_domain = true
